@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\milan\documents\visual studio 2015\projects\oritest\oritest\source.cpp(100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OriTest.vcxproj -> C:\Users\milan\Documents\Visual Studio 2015\Projects\OriTest\x64\Debug\OriTest.exe
+  OriTest.vcxproj -> C:\Users\milan\Documents\Visual Studio 2015\Projects\OriTest\x64\Debug\OriTest.pdb (Full PDB)
